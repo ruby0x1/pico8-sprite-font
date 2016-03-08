@@ -1,7 +1,9 @@
 pico-8 cartridge // http://www.pico-8.com
 version 5
 __lua__
--- simple messy basic font sprite drawing by _discovery
+-- simple messy basic font sprite drawing 
+-- by _discovery
+
 -- this isn't optimized at all, an exercise for the reader
 -- I drew the letters myself, as sprites, hence their existence in
 -- the sprite sheet. Those are so you can swap either/or, and trade 
